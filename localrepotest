@@ -1,0 +1,19 @@
+• 1. Create a Github Account
+• 2. Install Git on your local system
+• 3. Create a repository locally named "LocalRepo"
+• 4. Integrate Git with VS Code
+• 5. Create a repository on a Remote Repository (Github) named "RemoteRepo"
+• 6. add a file in the LocalRepo and push it to Github remote repository (RemoteRepo)
+• 7. Clone the RemoteRepo repository from GitHub to your locally system in a folder called "SecondLocalProject"
+• Share the screenshots from 1-7
+Homework 2: Working on branch
+• Create a new branch named "Features-1" from the repository created on Homework1 - 7 (SecondLocalProject)
+• Push the new branch to the remote repository
+• Merge the New branch Features-1 with the master branch from Github (pull request)
+• Share screens
+Homework 3:  Collaboration between different Github accounts/developpers
+• Reach out to someone in your cluster and ask to copy (fork) their repository in your Github account
+• Clone and edit the newly forked repository from your local system
+• Once you are done editing your peer/colleague code, work to merge (pull request) it back to the master branch in their account
+• Share screens
+ (edited) 
